@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cryptocurrency-tracker-coinmama/precache-manifest.7f87c6086796fd5977e01919443b3d7d.js"
+  "/cryptocurrency-tracker-coinmama/precache-manifest.010cbe9d1a77a31ee2a31f20a7cc2ebf.js"
 );
 
 self.addEventListener('message', (event) => {

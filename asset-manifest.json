@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cryptocurrency-tracker-coinmama/static/css/main.2b07b6aa.chunk.css",
-    "main.js": "/cryptocurrency-tracker-coinmama/static/js/main.5a59b4a3.chunk.js",
-    "main.js.map": "/cryptocurrency-tracker-coinmama/static/js/main.5a59b4a3.chunk.js.map",
-    "runtime-main.js": "/cryptocurrency-tracker-coinmama/static/js/runtime-main.84ca0076.js",
-    "runtime-main.js.map": "/cryptocurrency-tracker-coinmama/static/js/runtime-main.84ca0076.js.map",
-    "static/js/2.29edc68e.chunk.js": "/cryptocurrency-tracker-coinmama/static/js/2.29edc68e.chunk.js",
-    "static/js/2.29edc68e.chunk.js.map": "/cryptocurrency-tracker-coinmama/static/js/2.29edc68e.chunk.js.map",
+    "main.js": "/cryptocurrency-tracker-coinmama/static/js/main.c40487f0.chunk.js",
+    "main.js.map": "/cryptocurrency-tracker-coinmama/static/js/main.c40487f0.chunk.js.map",
+    "runtime-main.js": "/cryptocurrency-tracker-coinmama/static/js/runtime-main.9cff913e.js",
+    "runtime-main.js.map": "/cryptocurrency-tracker-coinmama/static/js/runtime-main.9cff913e.js.map",
+    "static/js/2.a708fa73.chunk.js": "/cryptocurrency-tracker-coinmama/static/js/2.a708fa73.chunk.js",
+    "static/js/2.a708fa73.chunk.js.map": "/cryptocurrency-tracker-coinmama/static/js/2.a708fa73.chunk.js.map",
     "index.html": "/cryptocurrency-tracker-coinmama/index.html",
-    "precache-manifest.7f87c6086796fd5977e01919443b3d7d.js": "/cryptocurrency-tracker-coinmama/precache-manifest.7f87c6086796fd5977e01919443b3d7d.js",
+    "precache-manifest.010cbe9d1a77a31ee2a31f20a7cc2ebf.js": "/cryptocurrency-tracker-coinmama/precache-manifest.010cbe9d1a77a31ee2a31f20a7cc2ebf.js",
     "service-worker.js": "/cryptocurrency-tracker-coinmama/service-worker.js",
     "static/css/main.2b07b6aa.chunk.css.map": "/cryptocurrency-tracker-coinmama/static/css/main.2b07b6aa.chunk.css.map",
-    "static/js/2.29edc68e.chunk.js.LICENSE.txt": "/cryptocurrency-tracker-coinmama/static/js/2.29edc68e.chunk.js.LICENSE.txt"
+    "static/js/2.a708fa73.chunk.js.LICENSE.txt": "/cryptocurrency-tracker-coinmama/static/js/2.a708fa73.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.84ca0076.js",
-    "static/js/2.29edc68e.chunk.js",
+    "static/js/runtime-main.9cff913e.js",
+    "static/js/2.a708fa73.chunk.js",
     "static/css/main.2b07b6aa.chunk.css",
-    "static/js/main.5a59b4a3.chunk.js"
+    "static/js/main.c40487f0.chunk.js"
   ]
 }
